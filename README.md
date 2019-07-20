@@ -11,5 +11,5 @@ client:login
 ********1. search/ 2.modify / 3. add client info / 4 delete client info / 5. display search history**********
 >>2>> input staff no to modify staff infomation
 information to be modified>>
-********1. name 2. password 3. age 4. mobile no 5. address 6. position 7. registored time 8. level 9. salary 10 exit
+********1. name 2. password 3. age 4. mobile no 5. address 6. position 7. register time 8. level 9. salary 10 exit
 
