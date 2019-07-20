@@ -10,5 +10,7 @@
 int main(int argc, const char *argv[])
 {
 	printf("lifx branch\n");
+	printf("this is a test for git\n");
+	printf("how are you\n");
 	return 0;
 }
