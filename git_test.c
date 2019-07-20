@@ -9,5 +9,6 @@
 
 int main(int argc, const char *argv[])
 {
-    return 0;
+	printf("lifx branch\n");
+	return 0;
 }
