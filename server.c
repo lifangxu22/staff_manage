@@ -59,6 +59,7 @@ int process_user_or_admin_login_request(int acceptfd,MSG *msg)
 {
 	printf("------------%s-----------%d.\n",__func__,__LINE__);
 	//封装sql命令，表中查询用户名和密码－存在－登录成功－发送响应－失败－发送失败响应	
+	//
 	char sql[DATALEN] = {0};
 	char *errmsg;
 	char **result;
